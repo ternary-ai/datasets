@@ -25,7 +25,7 @@ We welcome contributions from the community to enhance the diversity and quality
 
 ## Contact Us
 
-If you have any questions, suggestions, or concerns regarding our datasets or this repository, please don't hesitate to contact us at [contact@ternarycapital.com](mailto:contact@ternarycapital.com). Your feedback is highly appreciated and helps us improve the quality of our offerings.
+If you have any questions, suggestions, or concerns regarding our datasets or this repository, please don't hesitate to contact us at [contact@ternarycapital.com](mailto:contact@ternary.asia). Your feedback is highly appreciated and helps us improve the quality of our offerings.
 
 Thank you for choosing Ternary Capital Datasets Repository. 
 Happy researching and developing! 🚀
