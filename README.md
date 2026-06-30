@@ -1,31 +1,31 @@
-# Ternary Capital Datasets Repository
+# Ternary Capital — Datasets
 
-Welcome to the Ternary Capital Datasets Repository! This repository is dedicated to providing datasets tailored for training autonomous agents and generating synthetic data for applications in finance. Whether you're working on reinforcement learning algorithms, financial modeling, or data analysis, our datasets aim to facilitate your research and development processes.
+Financial and agent-training datasets for grounded reasoning, market cognition, and synthetic data research.
+Part of Ternary's open-source stack for agentic financial intelligence.
 
-## About Ternary Capital
+## What this is
 
-Ternary Capital is committed to advancing the field of autonomous systems and financial technology through cutting-edge research and innovation. Our team comprises experts in machine learning, finance, and software engineering, striving to push the boundaries of what's possible in these domains.
+Curated datasets supporting the training and evaluation of cognitive financial agents. Covers market data, economic indicators, and synthetic financial scenarios generated to improve agent reliability and reasoning under uncertainty.
 
-## Dataset Collection
+## Contents
 
-Our dataset collection covers a wide range of topics relevant to autonomous agents and financial applications, including:
+- **Market data** — historical prices, volumes, and market structure indicators
+- **Economic indicators** — GDP, inflation, employment, and macro time series
+- **Synthetic financial data** — generated scenarios for stress-testing and algorithm training
+- **Agent evaluation sets** — structured inputs and expected outputs for evaluating agent behaviour
 
-- Market data: Historical stock prices, trading volumes, and other market indicators.
-- Economic indicators: GDP growth rates, unemployment rates, inflation data, etc.
-- Synthetic financial data: Generated datasets for scenario testing and algorithm training.
-- Reinforcement learning environments: Simulated environments for training and evaluating autonomous agents.
+## Open Source
+
+Part of [github.com/ternary-ai](https://github.com/ternary-ai) — open-source agents, models, synthetic data, prompt engineering resources, and scaffolding maintained for the community.
 
 ## Disclaimer
 
-It's important to note that all datasets provided in this repository are offered "as is" and may contain errors or inaccuracies. While we strive to ensure the quality and reliability of our datasets, users are encouraged to verify the data and use it at their own discretion. Ternary Capital shall not be held liable for any damages or losses resulting from the use of these datasets.
+All datasets are provided as-is and may contain errors or gaps. Verify data independently before use in production or live investment contexts. Ternary Capital accepts no liability for outcomes arising from use of this material.
 
 ## Contributing
 
-We welcome contributions from the community to enhance the diversity and quality of our dataset collection. If you have a dataset that you believe would be valuable for training autonomous agents or for applications in finance, please feel free to submit a pull request with the dataset and relevant documentation.
+Submit a pull request with your dataset and relevant documentation. Contact [contact@ternary.capital](mailto:contact@ternary.capital) with questions.
 
-## Contact Us
+## Contact
 
-If you have any questions, suggestions, or concerns regarding our datasets or this repository, please don't hesitate to contact us at [contact@ternary.asia](mailto:contact@ternary.asia). Your feedback is highly appreciated and helps us improve the quality of our offerings.
-
-Thank you for choosing Ternary Capital Datasets Repository. 
-Happy researching and developing! 🚀
+[contact@ternary.capital](mailto:contact@ternary.capital) · US · Japan · Est. 2020
